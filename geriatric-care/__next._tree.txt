@@ -1,4 +1,4 @@
-:HL["/sevillavet-preview/_next/static/chunks/230irun4audnk.css","style"]
+:HL["/sevillavet-preview/_next/static/chunks/1l2oytfde2agy.css","style"]
 :HL["/sevillavet-preview/_next/static/media/ab57efd000576a30-s.p.3fofz6dws3mg0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/sevillavet-preview/_next/static/media/fba5a26ea33df6a3-s.p.18rizl4rsrl42.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"geriatric-care","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"182k6sQuvQxq8wbaR_YwC"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"geriatric-care","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"Bq8mCCLOoto7-erPTE8V7"}

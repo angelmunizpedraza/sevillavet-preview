@@ -1,2 +1,2 @@
-:HL["/sevillavet-preview/_next/static/chunks/230irun4audnk.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"182k6sQuvQxq8wbaR_YwC"}
+:HL["/sevillavet-preview/_next/static/chunks/1l2oytfde2agy.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"Bq8mCCLOoto7-erPTE8V7"}

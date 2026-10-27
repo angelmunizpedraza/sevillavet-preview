@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 <loc>https://www.sevillavet.com/</loc>
 <image:image>
@@ -8,7 +8,7 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/photos/exterior-2116-main-street-santa-monica.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
@@ -20,7 +20,7 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/photos/exam-room-ultrasound-small-dog.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
@@ -29,7 +29,7 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/hero/dentistry-chihuahua.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
@@ -38,7 +38,7 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/hero/vaccinations-pug-vet.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
@@ -47,7 +47,7 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/hero/puppies-frenchie.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
@@ -56,7 +56,7 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/hero/geriatric-lounge.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
@@ -65,7 +65,7 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/hero/urgent-bulldog.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
@@ -74,7 +74,7 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/hero/pt-lounge-labrador.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
@@ -83,7 +83,7 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/hero/pharmacy-shelves.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
@@ -95,7 +95,7 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/photos/operating-room-surgical-suite.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
@@ -107,7 +107,7 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/photos/operating-room-surgical-suite.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
@@ -119,7 +119,7 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/photos/dr-pedraza-french-bulldog.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
@@ -131,7 +131,7 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/photos/laparoscopic-surgery-in-progress.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
@@ -140,7 +140,7 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/hero/mis-monitors.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
@@ -149,7 +149,7 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/hero/ast-surgical-light.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
@@ -161,7 +161,15 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/photos/english-bulldog-patient.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<video:video>
+<video:title>English bulldog patient at Sevilla Veterinary Hospital</video:title>
+<video:thumbnail_loc>https://www.sevillavet.com/sites/sevillavet/video/clinic/clinic-bulldog-visit-poster.jpg</video:thumbnail_loc>
+<video:description>An English bulldog patient standing calmly in the hospital in Santa Monica.</video:description>
+<video:content_loc>https://www.sevillavet.com/sites/sevillavet/video/clinic/clinic-bulldog-visit.mp4</video:content_loc>
+<video:duration>11</video:duration>
+<video:publication_date>2026-10-25</video:publication_date>
+</video:video>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
@@ -170,7 +178,15 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/hero/sameday-entrance.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<video:video>
+<video:title>French bulldog recovering after surgery at Sevilla Veterinary Hospital</video:title>
+<video:thumbnail_loc>https://www.sevillavet.com/sites/sevillavet/video/clinic/frenchie-recovery-kennel-poster.jpg</video:thumbnail_loc>
+<video:description>A French bulldog resting calmly in a recovery kennel with an IV line after surgery.</video:description>
+<video:content_loc>https://www.sevillavet.com/sites/sevillavet/video/clinic/frenchie-recovery-kennel.mp4</video:content_loc>
+<video:duration>8</video:duration>
+<video:publication_date>2026-10-25</video:publication_date>
+</video:video>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
@@ -188,7 +204,7 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/photos/team-dr-holly-jordan.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -200,7 +216,7 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/photos/reception-sevilla-vet-logo-wall.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -209,7 +225,7 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/hero/parking-street.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -218,7 +234,7 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/hero/referring-table.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
@@ -227,13 +243,13 @@
 <image:image>
 <image:loc>https://www.sevillavet.com/sites/sevillavet/hero/contact-reception.jpg</image:loc>
 </image:image>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-10-27T00:00:00.000Z</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
 <url>
 <loc>https://www.sevillavet.com/privacypolicy</loc>
-<lastmod>2026-10-25T00:00:00.000Z</lastmod>
+<lastmod>2026-01-01T00:00:00.000Z</lastmod>
 <changefreq>yearly</changefreq>
 <priority>0.3</priority>
 </url>
